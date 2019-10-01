@@ -3,4 +3,18 @@
 
 seize_mean <- mean
 
-# exclusions should be send_to_gulag. maybe alias schorsch package function?
+send_to_gulag <- function() {require(schoRsch); schoRsch::outlier()}
+
+bootlick <- function() {require(modelr); modelr::bootstrap()}
+
+oink <- function() {require(beepr); beepr::beep()}
+
+
+
+
+# words to work in somewhere
+# labour
+# union
+# bourgeoise
+# data = workers
+# model error or sth is counterrevolutionary or reactionary or 
